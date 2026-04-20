@@ -1,2 +1,9 @@
 My first git practice note
 Learning git and github
+I have learned the below concepts in Github:
+1.How to create a branch
+2.How to add a file
+3.How to add a notes
+4.How to commit
+5.How to push it
+6.How to see the diff
